@@ -1,3 +1,4 @@
+#library to create window
 from tkinter import *
 
 window = Tk()
